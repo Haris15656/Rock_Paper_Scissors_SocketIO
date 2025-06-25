@@ -1,5 +1,6 @@
-# Rock_Paper_Scissor_Game
-A rock player scissor game using socket programming
+Rock Paper Scissor Game
+
+A rock player scissor game using socket programming made for our Computer Networking Lab Course 2024 at FAST NUCES
 
 This project and be run by following steps:
 1. Open VScode and run these files including index.js
